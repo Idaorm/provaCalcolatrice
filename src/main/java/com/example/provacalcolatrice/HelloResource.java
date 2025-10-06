@@ -11,4 +11,7 @@ public class HelloResource {
     public String hello() {
         return "Hello, World!";
     }
+    public String hello2() {
+        return "Hello, World!";
+    }
 }
